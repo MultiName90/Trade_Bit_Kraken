@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f20e5526-863c-45f7-aca1-cd6e9555b26b" name="Changes" comment="start">
-      <change beforePath="$PROJECT_DIR$/Chat_GPT_Balance.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chat_GPT_Balance.py" afterDir="false" />
+    <list default="true" id="f20e5526-863c-45f7-aca1-cd6e9555b26b" name="Changes" comment="comprpbacion de la comunicacion">
+      <change afterPath="$PROJECT_DIR$/api_key_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_MT5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kraken.key" beforeDir="false" afterPath="$PROJECT_DIR$/kraken.key" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +25,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MultiName90"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/MultiName90/Trade_Bit_Kraken.git",
@@ -32,7 +41,9 @@
   "associatedIndex": 4
 }]]></component>
   <component name="ProjectId" id="2sMsOi1sddgsezeCSAbeJERo6u9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,6 +52,7 @@
   "keyToString": {
     "Python.Chat_GPT_Balance.executor": "Run",
     "Python.Main.executor": "Run",
+    "Python.api_key_test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -102,7 +114,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738281389837</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ajuste de error">
+      <option name="closed" value="true" />
+      <created>1738281641959</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738281641959</updated>
+    </task>
+    <task id="LOCAL-00003" summary="comprpbacion de la comunicacion">
+      <option name="closed" value="true" />
+      <created>1738281691257</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738281691257</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -127,6 +155,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start" />
-    <option name="LAST_COMMIT_MESSAGE" value="start" />
+    <MESSAGE value="ajuste de error" />
+    <MESSAGE value="comprpbacion de la comunicacion" />
+    <option name="LAST_COMMIT_MESSAGE" value="comprpbacion de la comunicacion" />
   </component>
 </project>
