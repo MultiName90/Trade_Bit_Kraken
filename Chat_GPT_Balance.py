@@ -23,7 +23,7 @@ def get_balance():
         balance = kraken_demo.fetch_balance()
         return balance
     except Exception as e:
-        return {"error"}
+        return {"error": str(e)}
 
 # Ejecutar consulta
 balance = get_balance()
